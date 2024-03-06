@@ -1,0 +1,16 @@
+{
+    "name": "bhanu/planetzerone",
+    "autoload": {
+        "psr-4": {
+            "Bhanu\\Planet-Zerone\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Planet-Zerone"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
